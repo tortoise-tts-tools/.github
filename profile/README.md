@@ -22,3 +22,7 @@ We're planning to open-source it. Interested? Please register your interest by [
 ## Other Tools
 
 * [tortoise-ltk](https://github.com/tortoise-tts-tools/tortoise-ltk) (BETA: token lenght calculator GUI)
+
+## Note
+
+Not affiliated with @neonbjb. [Please check out the original repo](https://github.com/neonbjb/tortoise-tts).
