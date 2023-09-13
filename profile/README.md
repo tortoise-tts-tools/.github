@@ -1,3 +1,6 @@
+
+<img src="https://github.com/tortoise-tts-tools/.github/assets/76186054/e5d09d26-e0a7-4c2c-bc0b-be7d3f37a14f" width="500">
+
 # :turtle: TorToiSe TTS Tools & Guide
 
 ## [:arrow_right: Go To Guide :arrow_right:](https://github.com/tortoise-tts-tools/tortoise-tts-guide)
